@@ -5,3 +5,4 @@ build/*
 .cache-loader/*
 
 package-lock.json
+.idea
